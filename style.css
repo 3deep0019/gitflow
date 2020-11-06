@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading{
+    background-color: antiquewhite;   
+    height: 15vh;
+}
+.heading h1{
+    line-height: 15vh;
+    font-weight: 100;
+}
